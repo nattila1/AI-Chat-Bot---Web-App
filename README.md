@@ -1,6 +1,6 @@
 # Free AI Chatbot Trained on Your Google Drive Documents
 
-[![YouTube Video Placeholder](http://googleusercontent.com/youtube/3)](http://googleusercontent.com/youtube/com/watch?v=dQw4w9WgXcQ "Watch the Video Tutorial")
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/byKFiKrP2fY/0.jpg)](https://www.youtube.com/watch?v=byKFiKrP2fY)
 
 This project provides the simplest possible solution to create a powerful, FREE, custom-trained AI chatbot using only **Google Apps Script** and **Google Drive**. It allows you to build a chatbot that answers questions based *exclusively* on your own business documents, without needing complex cloud architectures or vector databases.
 
@@ -41,7 +41,7 @@ This chatbot leverages a simplified **Retrieval-Augmented Generation (RAG)** arc
 
 ## 🚀 Setup in 5 Minutes
 
-Here's a quick guide to get your chatbot running. For a detailed walkthrough, please refer to our **[full blog post tutorial](https://your-blog-post-link-here.com)**.
+Here's a quick guide to get your chatbot running. For a detailed walkthrough, please refer to our **[full blog post tutorial](https://bestflow.io/blog/posts/how-to-create-a-free-ai-chatbot-trained-with-your-business-document-only-with-google-drive-the-simplest-solution-ever-part-i/)**.
 
 1.  **Prepare Google Drive**:
     * Create a new folder in Google Drive to serve as your knowledge base.
