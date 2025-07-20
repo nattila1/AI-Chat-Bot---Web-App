@@ -41,7 +41,13 @@ This chatbot leverages a simplified **Retrieval-Augmented Generation (RAG)** arc
 
 ## 🚀 Setup in 5 Minutes
 
-Here's a quick guide to get your chatbot running. For a detailed walkthrough, please refer to our **[full blog post tutorial](https://bestflow.io/blog/posts/how-to-create-a-free-ai-chatbot-trained-with-your-business-document-only-with-google-drive-the-simplest-solution-ever-part-i/)**.
+Here's a quick guide to get your chatbot running. For a detailed walkthrough, please refer to our full blog post tutorial.
+- 🇬🇧 https://bestflow.io/blog/posts/how-to-create-a-free-ai-chatbot-trained-with-your-business-document-only-with-google-drive-the-simplest-solution-ever-part-i/
+- 🇩🇪 https://bestflow.io/de/posts/wie-sie-einen-kostenlosen-ki-chatbot-erstellen-der-ausschliesslich-mit-ihren-geschaeftsunterlagen-und-google-drive-trainiert-wurde-die-einfachste-loesung-ueberhaupt-teil-i/
+- 🇫🇷 https://bestflow.io/fr/posts/comment-creer-un-chatbot-ia-gratuit-forme-a-partir-de-vos-documents-dentreprise-uniquement-avec-google-drive-la-solution-la-plus-simple-qui-soit-partie-i/
+- 🇪🇸 https://bestflow.io/es/posts/como-crear-un-chatbot-de-ia-gratuito-entrenado-con-los-documentos-de-tu-negocio-usando-solo-google-drive-la-solucion-mas-sencilla-que-existe-parte-i/
+- 🇮🇹 https://bestflow.io/it/posts/come-creare-un-chatbot-ai-gratuito-addestrato-con-i-tuoi-documenti-aziendali-usando-solo-google-drive-la-soluzione-piu-semplice-di-sempre-parte-i/
+- 🇭🇺 https://bestflow.io/hu/posts/hogyan-keszits-ingyenes-mi-chatbotot-amit-ceges-dokumentumaidbol-tanithatsz-be-kizarolag-google-drive-segitsegevel-a-valaha-volt-legegyszerubb-megoldas-i-resz/
 
 1.  **Prepare Google Drive**:
     * Create a new folder in Google Drive to serve as your knowledge base.
